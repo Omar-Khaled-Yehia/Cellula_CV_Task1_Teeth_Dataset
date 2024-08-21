@@ -1,5 +1,5 @@
 # Cellula_CV_Task1_Teeth_Dataset
-##Teeth Dataset Classification with CNN
+Teeth Dataset Classification with CNN
 This repository contains a Jupyter notebook that implements a Convolutional Neural Network (CNN) to classify images of teeth into various categories. The project uses TensorFlow and Keras for building, training, and evaluating the model.
 
 Table of Contents
