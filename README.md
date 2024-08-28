@@ -32,8 +32,8 @@ Clone the repository to your local machine:
 
 bash
 Copy code
-git clone https://github.com/yourusername/teeth-dataset-classification.git
-cd teeth-dataset-classification
+git clone https://github.com/Omar-Khaled-Yehia/Cellula_CV_Task1_Teeth_Dataset.git
+cd Cellula_CV_Task1_Teeth_Dataset
 Open the Jupyter notebook Cellula_Task1_Teeth_Dataset.ipynb and execute the cells to preprocess data, train the model, and evaluate its performance.
 
 Ensure that the following dependencies are installed:
