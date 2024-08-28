@@ -46,3 +46,5 @@ The model is evaluated on the test dataset, and the performance metrics are visu
 Sample images from the training, validation, and testing datasets are displayed to provide insight into the model's predictions.
 Acknowledgements
 This project utilizes TensorFlow and Keras libraries for deep learning model development.
+
+To use the app go to https://teeth-cellula.streamlit.app/
